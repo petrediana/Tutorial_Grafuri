@@ -1,0 +1,3 @@
+C:/Users/Peanutt/Desktop/CLion/Tema_ATP/PROBLEMA_1/cmake-build-debug/CMakeFiles/PROBLEMA_1.dir
+C:/Users/Peanutt/Desktop/CLion/Tema_ATP/PROBLEMA_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Peanutt/Desktop/CLion/Tema_ATP/PROBLEMA_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
